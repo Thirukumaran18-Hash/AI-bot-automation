@@ -1,0 +1,25 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+backend/.env
+
+# Local data
+backend/internflow.db
+backend/internflow.db-journal
+backend/internflow.db-wal
+backend/internflow.db-shm
+backend/storage/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Tooling and OS files
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
