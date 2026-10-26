@@ -1,0 +1,3 @@
+open powershell 
+enter the project file path 
+run this command  ./start.ps1
